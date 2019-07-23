@@ -180,21 +180,3 @@ var prev=null
 }
 
 
-
-var list=new linkedList
-
-
-list.push("aman")
-list.push("sharma")
-list.push(99)
-
-list.unshiftList("rohan")
-list.set(3,"abhishek")
-
-list.insert(2,"vansh")
-
-list.traverse()
-
-console.log(list.reverse())
-
-list.traverse()
